@@ -1,0 +1,5 @@
+<%
+	
+	ui.decorateWith("codbr", "standardPage")
+	
+%>

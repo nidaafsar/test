@@ -24,16 +24,16 @@
 <!-- 	<bean parent="serviceContext">
 		<property name="moduleService">
 			<list>
-				<value>codbr.codbr.api.codbrService</value>
+				<value>org.openmrs.module.codbr.api.codbrService</value>
 				<bean
 					class="org.springframework.transaction.interceptor.TransactionProxyFactoryBean">
 					<property name="transactionManager">
 						<ref bean="transactionManager" />
 					</property>
 					<property name="target">
-						<bean class="codbr.codbr.api.impl.codbrServiceImpl">
+						<bean class="org.openmrs.module.codbr.api.impl.codbrServiceImpl">
 							<property name="dao">
-								<bean class="codbr.codbr.api.db.hibernate.HibernatecodbrDAO">
+								<bean class="org.openmrs.module.codbr.api.db.hibernate.HibernatecodbrDAO">
 									<property name="sessionFactory">
 										<ref bean="sessionFactory" />
 									</property>

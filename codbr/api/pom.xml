@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<parent>
-		<groupId>codbr</groupId>
+		<groupId>org.openmrs.module</groupId>
 		<artifactId>codbr</artifactId>
 		<version>1.0</version>
 	</parent>

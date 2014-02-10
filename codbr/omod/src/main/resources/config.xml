@@ -29,6 +29,7 @@
 	
 	<require_modules>
         <require_module version="2.1.3">org.openmrs.module.htmlformentry</require_module>
+         <require_module version="3.2">org.openmrs.module.uiframework</require_module>
 		</require_modules> 
 
 	<!-- Internationalization -->
