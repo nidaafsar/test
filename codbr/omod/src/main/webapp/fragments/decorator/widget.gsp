@@ -1,0 +1,2 @@
+${ config.beforeContent }
+<%= config.content %>
