@@ -6,7 +6,7 @@
 	<artifactId>codbr</artifactId>
 	<version>1.0</version>
 	<packaging>pom</packaging>
-	<name>codbr Module</name>
+	<name>Codbr Module</name>
 	<description>Helps to start writing OpenMRS modules</description>
 	<url>https://wiki.openmrs.org/display/docs/codbr+Module+Module</url>
 	

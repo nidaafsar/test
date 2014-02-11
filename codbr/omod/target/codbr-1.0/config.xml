@@ -4,7 +4,7 @@
 
 	<!-- Module Properties -->
 	<id>codbr</id>
-	<name>codbr Module</name>
+	<name>Codbr Module</name>
 	<version>1.0</version>
 	<package>org.openmrs.module.codbr</package>
 	<author>Ali Raza</author>
